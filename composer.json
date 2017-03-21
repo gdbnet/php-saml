@@ -1,5 +1,5 @@
 {
-    "name": "performer/php-saml",
+    "name": "performer/php-saml-2",
     "description": "OneLogin PHP SAML Toolkit",
     "license": "MIT",
     "version": "2.7.0-p1",
